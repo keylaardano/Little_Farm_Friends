@@ -1,9 +1,11 @@
 Anggota kelompok:
-
 Ajeng Salma Arifa (25051204030)
 Keyla Putri Nanjalita Ardano (25051204083)
 Syafilla Fitri Faradilla (25051204176)
+
+
 Deskripsi project: Little Farm Friends adalah game simulasi pertanian 2D yang dikembangkan menggunakan Python dan Pygame dengan menerapkan konsep Object-Oriented Programming (OOP). Dalam permainan ini, pemain mengelola lahan pertanian dengan menanam, merawat, dan memanen tanaman untuk memperoleh koin dan meningkatkan level. Seiring perkembangan level, berbagai fitur baru akan terbuka, seperti perluasan lahan, jenis tanaman baru, kemunculan hama yang dapat dikalahkan menggunakan senjata, serta sistem peternakan ayam dan sapi yang menghasilkan telur dan susu. Melalui sistem progresi level tersebut, pemain dapat mengembangkan kebun sederhana menjadi area pertanian yang lebih lengkap dalam suasana permainan yang ringan dan santai.
+
 
 Fitur Utama:
 
